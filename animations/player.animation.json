@@ -141,8 +141,8 @@
       "loop": true,
       "bones": {
         "rightItem": {
-          "scale": 0.25,
-          "position": [ 4.5, -0.35, -7.0 ]
+          "scale": 0.5,
+          "position": [ 4.5, -0.35, -4.0 ]
         }
       }
     },
@@ -150,8 +150,8 @@
       "loop": true,
       "bones": {
         "rightItem": {
-          "scale": 0.25,
-          "position": [ 4.5, -0.35, -7.0 ]
+          "scale": 0.5,
+          "position": [ 4.5, -0.35, -4.0 ]
         }
       }
     },
@@ -159,8 +159,8 @@
       "loop": true,
       "bones": {
         "rightItem": {
-          "scale": 0.25,
-          "position": [ 4.5, -0.35, -7.0 ]
+          "scale": 0.5,
+          "position": [ 4.5, -0.35, -4.0 ]
         }
       }
     },
