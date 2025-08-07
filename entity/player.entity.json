@@ -2,6 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:client_entity": {
     "description": {
+      "min_engine_version": "1.8.0",
       "identifier": "minecraft:player",
       "materials": {
         "default": "entity_alphatest",
@@ -109,7 +110,7 @@
         "holding_wolf_armor": "animation.player.holding_wolf_armor",
         "holding_arrow": "animation.player.holding_arrow",
         "holding_arrow_third_person_off_hand": "animation.player.holding_arrow_third_person_off_hand",
-        "first_person_holding_snowball": "animation.player.first_person.holding_snowball"
+        "first_person_snowball": "animation.player.first_person.snowball"
       },
       "render_controllers": [
         {
