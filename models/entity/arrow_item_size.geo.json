@@ -1,0 +1,64 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.arrow_item_size",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [0, 0, 0],
+					"rotation": [0, 87.5, 0],
+					"binding": "q.item_slot_to_bone_name(context.item_slot)",
+					"texture_meshes": [
+						{
+							"texture": "default",
+							"position": [-8, -7, 3],
+							"rotation": [0, 90, -90],
+							"local_pivot": [9, -2, 9]
+						}
+					]
+				},
+				{
+					"name": "entity",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-2.5, -2.5, 12],
+							"size": [5, 5, 0],
+							"pivot": [0, 0, 0],
+							"rotation": [0, 0, 45],
+							"uv": {
+								"south": {"uv": [0, 2.5], "uv_size": [2.5, 2.5]}
+							}
+						},
+						{
+							"origin": [0, -2.5, -3],
+							"size": [0, 5, 16],
+							"pivot": [0, 0, 0],
+							"rotation": [0, 0, 45],
+							"uv": {
+								"east": {"uv": [0, 0], "uv_size": [8, 2.5]}
+							}
+						},
+						{
+							"origin": [0, -2.5, -3],
+							"size": [0, 5, 16],
+							"pivot": [0, 0, 0],
+							"rotation": [0, 0, -45],
+							"uv": {
+								"east": {"uv": [0, 0], "uv_size": [8, 2.5]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

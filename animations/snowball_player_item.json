@@ -1,0 +1,33 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.snowball_player_item.first_person_hold": {
+			"loop": true,
+			"animation_length": 10,
+			"bones": {
+				"body": {
+					"rotation": [271.13165, -26.19883, -69.62689],
+					"position": [-5.02343, 13.98217, -3.72306],
+					"scale": 1.4
+				},
+				"entity": {
+					"scale": 0
+				}
+			}
+		},
+		"animation.snowball_player_item.third_person_hold": {
+			"loop": true,
+			"animation_length": 10,
+			"bones": {
+				"body": {
+					"rotation": [283.00481, -107.53494, -439.9079],
+					"position": [1.29869, 28.09352, -7.93738],
+					"scale": 0.55
+				},
+				"entity": {
+					"scale": 0
+				}
+			}
+		}
+	}
+}

@@ -4,7 +4,8 @@
     "controller.render.item_size.animate": {
       "geometry": "Geometry.default",
       "materials": [ { "*": "Material.default" } ],
-      "textures": [ "texture.item" ]
+      "textures": [ "texture.item" ],
+      "filter_lighting": true
     }
   }
 }
