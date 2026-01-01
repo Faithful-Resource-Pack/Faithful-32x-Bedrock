@@ -5,7 +5,7 @@
 			"loop": true,
 			"animation_length": 10,
 			"bones": {
-				"root_item": {
+				"rightitem": {
 					"rotation": [-36.67548, -86.85374, -179.50132],
 					"position": [-3.36827, 26.60414, -14.20191],
 					"scale": [0.75, 1, 1]
@@ -16,7 +16,7 @@
 			"loop": true,
 			"animation_length": 10,
 			"bones": {
-				"root_item": {
+				"rightitem": {
 					"rotation": [304.15889, -147.41223, -238.55658],
 					"position": [2.10302, -3.83105, 10.43465],
 					"scale": 1.4

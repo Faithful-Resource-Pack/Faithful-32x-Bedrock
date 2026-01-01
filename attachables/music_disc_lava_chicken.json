@@ -2,16 +2,16 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "minecraft:web",
+      "identifier": "minecraft:music_disc_lava_chicken",
       "render_controllers": ["controller.render.item_default"],
       "materials": {
         "default": "entity_alphatest",
         "enchanted": "entity_alphatest_glint"
       },
       "textures": {
-        "default": "textures/blocks/web",
+        "default": "textures/items/music_disc_lava_chicken",
         "enchanted": "textures/misc/enchanted_item_glint",
-        "item": "textures/blocks/web"
+        "item": "textures/items/music_disc_lava_chicken"
       },
       "geometry": {
         "default": "geometry.item_size"
