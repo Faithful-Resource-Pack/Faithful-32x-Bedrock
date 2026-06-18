@@ -7,8 +7,8 @@
       21,
       130
     ],
-    "name": "Faithful 32x - December 2025 Pre-release",
-    "uuid": "a224a407-127c-432c-973a-d07b4724d7a6",
+    "name": "Faithful 32x",
+    "uuid": "b37e945d-497f-4f93-abe4-5fa56486b6ec",
     "version": [
       1,
       0,
@@ -24,7 +24,7 @@
     {
       "description": "The go-to 32x texture pack for Minecraft. Now for Bedrock Edition.",
       "type": "resources",
-      "uuid": "8c3e1454-4b19-42bf-9863-c286e532a69a",
+      "uuid": "b37e945d-497f-4f93-abe4-5fa56486b6ec",
       "version": [
         0,
         0,
