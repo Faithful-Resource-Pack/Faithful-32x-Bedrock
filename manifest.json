@@ -4,11 +4,11 @@
     "description": "The go-to 32x texture pack for Minecraft. Now for Bedrock Edition.",
     "min_engine_version": [
       1,
-      21,
-      130
+      26,
+      20
     ],
     "name": "Faithful 32x",
-    "uuid": "db64ee7d-1cfd-4c96-b479-2503fc448219",
+    "uuid": "fad14f6e-f0c2-4077-b3ec-1781c4b7cc71",
     "version": [
       1,
       0,
@@ -24,7 +24,7 @@
     {
       "description": "The go-to 32x texture pack for Minecraft. Now for Bedrock Edition.",
       "type": "resources",
-      "uuid": "c204843f-6cb6-43b8-a836-116ae9c24a93",
+      "uuid": "f2de81bb-3371-4410-b58f-b43c2a428094",
       "version": [
         0,
         0,
