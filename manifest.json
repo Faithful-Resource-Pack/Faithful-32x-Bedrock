@@ -40,13 +40,13 @@
   ],
   "subpacks": [
     {
-      "folder_name": "font_26_50",
-      "name": "Font Format Before 26.6X",
+      "folder_name": "font_26_60",
+      "name": "Font Format After 26.5X",
       "memory_tier": 1
     },
     {
-      "folder_name": "font_26_60",
-      "name": "Font Format After 26.5X",
+      "folder_name": "font_26_50",
+      "name": "Font Format Before 26.6X",
       "memory_tier": 1
     }
   ],
@@ -54,5 +54,3 @@
     "pbr"
    ]
  }
-
-
