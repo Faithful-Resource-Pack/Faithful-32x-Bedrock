@@ -2,7 +2,7 @@
   "format_version": 2,
   "header": {
     "description": "The go-to 32x texture pack for Minecraft. Now for Bedrock Edition.",
-    "min_engine_version": [1, 26, 40],
+    "min_engine_version": [1, 26, 60],
     "version": [1, 0, 0],
     "name": "Faithful 32x",
     "uuid": "40026913-1303-454d-90c9-2ac3ee9a737d"
@@ -18,24 +18,6 @@
       "type": "resources",
       "uuid": "9b6c23d5-badf-43db-a0de-8608bed10fea",
       "version": [0, 0, 1]
-    }
-  ],
-  "settings": [
-    {
-      "type": "label",
-      "text": "With the recent release of the 1.26.60.21 preview, Minecraft Bedrock Edition has switched to a new font format. We recommend using the Font Format After 26.5X setting."
-    }
-  ],
-  "subpacks": [
-    {
-      "folder_name": "font_26_60",
-      "name": "Font Format After 26.5X",
-      "memory_tier": 1
-    },
-    {
-      "folder_name": "font_26_50",
-      "name": "Font Format Before 26.6X",
-      "memory_tier": 1
     }
   ],
   "capabilities": ["pbr"]
